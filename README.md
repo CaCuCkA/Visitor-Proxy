@@ -41,3 +41,7 @@ with the `groupId`. Stamps are stored in the group header.
 <p>Implement scrapping service for <a href="https://www.newhomesource.com/">NewHomeSource</a> with Proxy template. 
 If there the link is already scrapped extract it from the cache, else run the 
 link again. Use the JDBC library to store links in SQLite DB. Use JSoup to parse HTML, if needed.</p>
+
+## Comments!
+
+<p>The work was made and sent from <a href="https://github.com/vvaranytsa">vvaranytsa's </a> computer, since my computer broke down</p>
